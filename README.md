@@ -60,6 +60,25 @@ Changes I made-
 Soruce Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-1/chain.ipynb
 
 
+**Video - 5  ROUTER**
+
+What I learned - 
+1.	How a LLM can act as a Router.
+2.	Using built in ToolNode from Langgraph used to call Tools.
+3.	Using built in tools_condition which is very useful when working with tool calling models.
+4.	Representation of tool calls in studio.
+Changes I made-
+1.	Altered the prompts in the code.
+2.	Created a graph at the end using ToolNode and tools_condtion that prints fancy font print for entered prompt based on the conditional edge.
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/fa0af8f1-2395-4bed-ba0f-a3f737e37fa7" />
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-1/router.ipynb
+
+
+
+
+
 
 
 
