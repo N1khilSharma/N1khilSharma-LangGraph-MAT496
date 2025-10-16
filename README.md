@@ -78,6 +78,21 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 
 
+**Video - 6  Agent**
+
+What I learned - 
+1.	What is ReAct architecture that is used for agents and the three components of ReAct.
+2.	Adding recursive edges between tools and the LLM and keep it running till the LLM sees it fit to end.
+3.	Checking traces of Langgraph on studio which shows the tools used as well.
+   
+Changes I made-
+1.	Altered the prompts in the code a little.
+2.	Added my own example at the end demonstrating recursion.
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/02706cf5-6dd4-44fc-9afc-b162c29b0556" />
+
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent.ipynb
 
 
 
