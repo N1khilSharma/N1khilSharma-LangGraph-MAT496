@@ -97,6 +97,24 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 
 
+**Video - 7  Agent Memory**
+
+What I learned - 
+1.	How persistence and independence introduce the idea of memory, Checkpointers in Langchain after each GraphState.
+2.	MemorySaver function for graphs and the contents of a CheckPointer.
+3.	Association of CheckPointers using Threads.
+4.	Checkpointers give access to the entire state of the previous graph for future invocations.
+   
+Changes I made-
+1.	Altered the prompts in the code a little.
+2.	Extended the existing checkpointer thread and added my own code block to continue in the thread.
+
+
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-1/agent-memory.ipynb
+
+
+
 
 
 
