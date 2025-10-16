@@ -42,6 +42,29 @@ What I learned -
 
 
 
+**Video - 4  CHAIN**
+
+What I learned - 
+
+1.	What are Chains in Langgraph and how they bind tools.
+2.	What are messages, types of messages in Langgraph and that chat models interact using messages.
+3.	What are tools and how to do tool calls on chat models. 
+4.	Using messages as GraphStates.
+
+Changes I made-
+1.	Altered the prompts in the code.
+2.	Created a graph at the end which performs tool calls and uses message as GraphState to perform arithmetic operations.
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4d8ba0fa-4cc1-47e0-a022-50b9da5fdd08" />
+
+Soruce Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-1/chain.ipynb
+
+
+
+
+
+
+
 
 
 
