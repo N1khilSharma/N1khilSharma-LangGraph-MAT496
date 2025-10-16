@@ -33,6 +33,18 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 
 
+**Video - 3  Langsmith Studio**
+
+What I learned - 
+
+1.	Interacting with the Langgraph ide in studio.
+2.	Tracking the run of the graph in studio using Threads.
+
+
+
+
+
+
 
 
 
