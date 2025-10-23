@@ -115,6 +115,24 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 
 
+## ***Module 2 Start***
+
+#**Video - 1  State Schema**
+
+What I learned - 
+1. What is State Schema and its application.
+2. What are Dataclasses and what is Pydantic.
+3. Application of Pydantic for data validation and using @validator.
+
+Changes I made - 
+1. Altered the prompts in code.
+2. Added a code cell at the end to test out Pydantic
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
+
+
+
+
 
 
 
