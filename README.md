@@ -131,6 +131,18 @@ Changes I made -
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
 
 
+**Video - 2  State Reducers**
+
+What I learned -
+1. Langgraph errors library and InvalidUpdateError function in the library.
+2. What are Reducers and why they are needed.
+3. How to make Custom Reducers.
+
+Changes I made - 
+1. Altered the prompts in code.
+2. Added a code cell at the end to test out Custom Reducers.
+
+
 
 
 
