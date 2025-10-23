@@ -165,6 +165,8 @@ What I learned -
 2. Why it is Token intensive to have long dialogues.
 3. RemoveMessage function in langchain_core.messages library
 4. How to filter messages using ID and grab them.
+
+
 Changes I made - 
 1. Altered the prompts in code.
 2. Created a cell of code at the end that takes number of messages to be deleted as input and removes all but the last x elements.
@@ -174,6 +176,22 @@ Changes I made -
 
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
 
+
+
+**Video - 5 Chatbot w/ Summarizing Messages and Memory**
+
+What I learned - 
+1. Summarization of Conversation after setting a number of messages after which all messages should be summarized.
+2. Saving the summary in state using memory and checkpointers.
+3. This enables us to not have a conversation in state that run lot longer.
+
+Changes I made - 
+1. Altered the prompts in the code.
+2. Added a code block at the end that takes number of messages before summarization as an input and then summarizes the earlier messages.
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/1c0e2c60-1dec-4c2d-b1a6-738a5223ada5" />
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
 
 
 
