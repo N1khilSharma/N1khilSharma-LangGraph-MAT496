@@ -194,6 +194,20 @@ Changes I made -
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
 
 
+**Video - 6 Chatbot w/ Summarizing Messages and External Memory**
+
+What I learned - 
+1. What is SQlite and how to implement it.
+2. Difference between in memory and sqlite checkpointer.
+3. Persistance of state because Sqlite stores memory locally
+
+Changes I made - 
+1. Altered the prompts in the code.
+2. Changed check_same_thread to True to get rid of error regarding same thread.
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
+
+
 
 
 
