@@ -145,7 +145,7 @@ Changes I made -
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-reducers.ipynb
 
 
-**Video - 3  State Reducers**
+**Video - 3  Multiple Schemas**
 
 What I learned - 
 1. What are private states, overall states and how to use them.
@@ -156,6 +156,24 @@ Changes I Made -
 1. Altered the prompts in code.
 
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/multiple-schemas.ipynb
+
+
+**Video - 4 Trim and Filter Messages**
+
+What I learned - 
+1. How to use Messages as states.
+2. Why it is Token intensive to have long dialogues.
+3. RemoveMessage function in langchain_core.messages library
+4. How to filter messages using ID and grab them.
+Changes I made - 
+1. Altered the prompts in code.
+2. Created a cell of code at the end that takes number of messages to be deleted as input and removes all but the last x elements.
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f49e87cb-cc01-45b6-997e-129df4596e89" />
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
+
 
 
 
