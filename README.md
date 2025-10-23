@@ -142,7 +142,20 @@ Changes I made -
 1. Altered the prompts in code.
 2. Added a code cell at the end to test out Custom Reducers.
 
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-reducers.ipynb
 
+
+**Video - 3  State Reducers**
+
+What I learned - 
+1. What are private states, overall states and how to use them.
+2. Particular Input and Output Schemas and when to use them.
+
+
+Changes I Made - 
+1. Altered the prompts in code.
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-2/multiple-schemas.ipynb
 
 
 
