@@ -213,8 +213,19 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 1**
 
 What I learned - 
-Changes I made - 
-Source Link : 
+
+1. What is Streaming and Langchain supports first class streaming.
+2. Syntax for using streaming such as .stream and .astream.
+3. Modes of streaming such as update and values.
+4. .astream_events method and its application.
+   
+Changes I made -
+
+1. Altered the prompts in the code.
+2. Added a cell of code at the end with streaming using update, values, .stream and .astream.
+
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/streaming-interruption.ipynb
 
 ## **Video 2**
 
