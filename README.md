@@ -212,14 +212,14 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 ## **Video 1**
 
-What I learned - 
+### What I learned - 
 
 1. What is Streaming and Langchain supports first class streaming.
 2. Syntax for using streaming such as .stream and .astream.
 3. Modes of streaming such as update and values.
 4. .astream_events method and its application.
    
-Changes I made -
+### Changes I made -
 
 1. Altered the prompts in the code.
 2. Added a cell of code at the end with streaming using update, values, .stream and .astream.
@@ -229,9 +229,15 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 ## **Video 2**
 
-What I learned - 
-Changes I made - 
-Source Link : 
+### What I learned - 
+1. What are breakpoints and their applications, What is Human-in-the-loop and the motivation behind it.
+2. Running stream while passing none in it with the thread id would run all the subsequent nodes after giving me the current state of where the graph is.
+3. Add user choices in the graph and moving based on the input.
+### Changes I made -
+1. Altered the prompts in the code.
+2. Added an example of my own at the end of the notebook.
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/breakpoints.ipynb
 
 ## **Video 3**
 
