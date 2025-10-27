@@ -241,9 +241,16 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 ## **Video 3**
 
-What I learned - 
-Changes I made - 
-Source Link : 
+### What I learned - 
+1. How to edit the graph state at the breakpoint.
+2. Using graph.get_state(thread) and graph.update_state(thread,updates) after interrupting the graph.
+3. 
+### Changes I made -
+
+1. Altered the prompts in the code a little.
+2. Created a quiz bot that asks True or False questions and User can give input.
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/edit-state-human-feedback.ipynb
 
 ## **Video 4**
 
