@@ -263,8 +263,14 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 5**
 
 ### What I learned - 
+1. View all past states of graph execution using get_state_history() each with a unique checkpoint_id.
+2. Extract the config from any past State and pass it to graph.stream to replay the graph from that exact checkpoint.
+3. What is forking and its application and creating a new fork_config to explore other paths.
 ### Changes I made - 
-Source Link : 
+1. Altered the prompts in the code a little.
+2. Added my own example at the end showcasing forking.
+   
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
 
 
 
