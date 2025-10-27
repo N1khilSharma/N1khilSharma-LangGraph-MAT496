@@ -244,7 +244,6 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ### What I learned - 
 1. How to edit the graph state at the breakpoint.
 2. Using graph.get_state(thread) and graph.update_state(thread,updates) after interrupting the graph.
-3. 
 ### Changes I made -
 
 1. Altered the prompts in the code a little.
@@ -254,14 +253,17 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 
 ## **Video 4**
 
-What I learned - 
-Changes I made - 
-Source Link : 
+### What I learned - 
+1. Overriding node interrupts.
+### Changes I made - 
+1. Altered the prompts in the code a little
+
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
 
 ## **Video 5**
 
-What I learned - 
-Changes I made - 
+### What I learned - 
+### Changes I made - 
 Source Link : 
 
 
