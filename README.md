@@ -270,7 +270,7 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 1. Altered the prompts in the code a little.
 2. Added my own example at the end showcasing forking.
    
-Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/dynamic-breakpoints.ipynb
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/time-travel.ipynb
 
 
 
