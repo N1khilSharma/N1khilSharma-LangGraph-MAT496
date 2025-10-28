@@ -273,6 +273,41 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-3/time-travel.ipynb
 
 
+# ***Module 4 Start***
+
+## **Video 1**
+
+### What I learned - 
+### Changes I made - 
+
+   
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+
+## **Video 2**
+
+### What I learned - 
+### Changes I made - 
+
+   
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+
+
+## **Video 3**
+
+### What I learned - 
+### Changes I made - 
+
+   
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+
+
+## **Video 4**
+
+### What I learned - 
+### Changes I made - 
+
+   
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
 
 
 
