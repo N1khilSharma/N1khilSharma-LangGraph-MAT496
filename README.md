@@ -278,10 +278,16 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 1**
 
 ### What I learned - 
+1. Error on key state due to passing multiple values and the application of reducer to fix it.
+2. All parallel states update before the next non parallel state.
+3. We can use a custom reducer to sort the order of parallel elements.
 ### Changes I made - 
+1. Altered the prompts in the code.
+2. Added my own example with 3 parallelization and using Tavily for searching.
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2033ceb1-0bcc-46a9-a040-927ea41e5c7c" />
    
-Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/parallelization.ipynb
 
 ## **Video 2**
 
