@@ -292,10 +292,14 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 2**
 
 ### What I learned - 
+1. What are subgraphs, their states and what are their uses.
+2. How to add subgraphs to parent graphs.
+3. Using reducers to prevent collisions between subgraphs.
 ### Changes I made - 
-
+1. Altered the prompts in the code.
+2. Created my own example at the end using subgraphs.
    
-Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub_graphs.ipynb
 
 
 ## **Video 3**
