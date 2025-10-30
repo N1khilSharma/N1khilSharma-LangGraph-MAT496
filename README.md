@@ -305,10 +305,15 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 3**
 
 ### What I learned - 
+1. What is the map step and what's it's application.
+2. Reduction phase of the mapping and it's parallelization.
+3. How to use langgraph send feature.
 ### Changes I made - 
-
+1. Altered the prompts in the code a bit.
+2. Created my own example showcasing mapping.
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0ebe85e6-9d57-43ab-87d2-fd52525f0025" />
    
-Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
 
 
 ## **Video 4**
