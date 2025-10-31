@@ -319,10 +319,17 @@ Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module
 ## **Video 4**
 
 ### What I learned - 
+1. Revision of all concepts taught in the langgraph course thus far.
+2. Integrating all the langgraph tools into one.
+3. Creating a markdown report of multiple inputs summarized by using the markdown function.
 ### Changes I made - 
+1. Altered the prompts in the code a bit.
+2. Created my own example at the end utilizing most of the tools like markdown() taught in the video.
+<img width="399" height="726" alt="image" src="https://github.com/user-attachments/assets/a4dc40e9-ec72-4a3f-b06d-7114a119be0f" />
+
 
    
-Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/.ipynb
+Source Link : https://github.com/langchain-ai/langchain-academy/blob/main/module-4/research-asssistant.ipynb
 
 
 
